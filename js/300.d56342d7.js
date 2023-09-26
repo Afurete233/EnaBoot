@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgame_info_dynamic"]=self["webpackChunkgame_info_dynamic"]||[]).push([[300],{5300:function(n,e,a){a.r(e),a.d(e,{default:function(){return d}});var r=a(3396);function t(n,e,a,t,i,u){return(0,r.wg)(),(0,r.iD)("div")}var i={name:"GameInfoDynamicArknights",data(){return{}},mounted(){},methods:{}},u=a(89);const c=(0,u.Z)(i,[["render",t]]);var d=c}}]);
+//# sourceMappingURL=300.d56342d7.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgame_info_dynamic"]=self["webpackChunkgame_info_dynamic"]||[]).push([[792],{7792:function(n,e,a){a.r(e),a.d(e,{default:function(){return d}});var r=a(3396);function t(n,e,a,t,u,i){return(0,r.wg)(),(0,r.iD)("div")}var u={name:"GameInfoDynamicBangdream",data(){return{}},mounted(){},methods:{}},i=a(89);const c=(0,i.Z)(u,[["render",t]]);var d=c}}]);
+//# sourceMappingURL=792.a7b736cb.js.map
