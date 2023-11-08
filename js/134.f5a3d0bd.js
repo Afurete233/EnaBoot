@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgame_info_dynamic"]=self["webpackChunkgame_info_dynamic"]||[]).push([[134],{6134:function(n,a,e){e.r(a),e.d(a,{default:function(){return f}});var r=e(3396);function t(n,a,e,t,u,i){return(0,r.wg)(),(0,r.iD)("div")}var u={name:"GameInfoDynamicGranbluefantasy",data(){return{}},mounted(){},methods:{}},i=e(89);const c=(0,i.Z)(u,[["render",t]]);var f=c}}]);
+//# sourceMappingURL=134.f5a3d0bd.js.map

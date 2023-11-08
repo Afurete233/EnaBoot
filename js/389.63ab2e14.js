@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgame_info_dynamic"]=self["webpackChunkgame_info_dynamic"]||[]).push([[389],{5389:function(n,e,a){a.r(e),a.d(e,{default:function(){return d}});var r=a(3396);function t(n,e,a,t,u,c){return(0,r.wg)(),(0,r.iD)("div")}var u={name:"GameInfoDynamicPcr",data(){return{}},mounted(){},methods:{}},c=a(89);const i=(0,c.Z)(u,[["render",t]]);var d=i}}]);
+//# sourceMappingURL=389.63ab2e14.js.map
