@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkgame_info_dynamic"]=self["webpackChunkgame_info_dynamic"]||[]).push([[801],{6801:function(n,e,a){a.r(e),a.d(e,{default:function(){return o}});var r=a(3396);function t(n,e,a,t,u,i){return(0,r.wg)(),(0,r.iD)("div")}var u=a(2390),i={name:"GameInfoDynamicAzurlane",DefaultConfig:u.Z,data(){return{}},mounted(){},methods:{}},f=a(89);const c=(0,f.Z)(i,[["render",t]]);var o=c}}]);
+//# sourceMappingURL=801.71df91cc.js.map
